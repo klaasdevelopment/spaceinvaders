@@ -1,0 +1,33 @@
+# Project executable
+/test
+
+# Compiled objects and compiler-generated dependencies
+*.o
+*.obj
+*.d
+
+# Libraries and executables
+*.a
+*.lib
+*.so
+*.so.*
+*.dylib
+*.dll
+*.exe
+*.out
+
+# Debug, coverage, and profiling output
+*.pdb
+*.ilk
+*.dSYM/
+*.gcno
+*.gcda
+*.gcov
+*.profraw
+*.profdata
+gmon.out
+
+# Build directories
+/build/
+/bin/
+/obj/
